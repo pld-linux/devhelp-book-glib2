@@ -5,7 +5,8 @@ Version:	2.0
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://www.devhelp.net/books/books/glib-2.0.tar.gz
+#Source0:	http://www.devhelp.net/books/books/glib-2.0.tar.gz
+Source0:	glib-2.0.tar.gz
 # Source0-md5:	0ec76bca60da6255d25edac8a8501f77
 URL:		http://www.devhelp.net/
 Requires:	devhelp
