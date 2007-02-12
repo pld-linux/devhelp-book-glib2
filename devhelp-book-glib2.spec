@@ -1,5 +1,5 @@
 Summary:	DevHelp book: glib 2.0
-Summary(pl.UTF-8):   Książka do DevHelpa o glibie 2.0
+Summary(pl.UTF-8):	Książka do DevHelpa o glibie 2.0
 Name:		devhelp-book-glib2
 Version:	2.0
 Release:	1
