@@ -1,5 +1,5 @@
 Summary:	DevHelp book: glib 2.0
-Summary(pl):	Ksi±¿ka do DevHelpa o glibie 2.0
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o glibie 2.0
 Name:		devhelp-book-glib2
 Version:	2.0
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about glib 2.0.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o glibie 2.0.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o glibie 2.0.
 
 %prep
 %setup -q -c -n glib-%{version}
